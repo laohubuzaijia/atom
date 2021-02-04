@@ -30,6 +30,7 @@ The [API reference](https://atom.io/docs/api) for developing packages is also do
 - [Git](https://git-scm.com)
 
 ### macOS
+#1
 
 Download the latest [Atom release](https://github.com/atom/atom/releases/latest).
 
